@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/p77523096bharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="p77523096bharat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharat-paudel-127217262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-paudel-127217262" height="30" width="40" /></a>
-<a href="https://fb.com/bharat paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharat paudel" height="30" width="40" /></a>
+
 <a href="https://instagram.com/bharatpaudel_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatpaudel_1" height="30" width="40" /></a>
 </p>
 
